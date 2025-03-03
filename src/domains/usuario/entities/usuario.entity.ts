@@ -1,5 +1,5 @@
-import { TaskEntity } from "src/domains/task/entities/task.entity";
-
+// import { TaskEntity } from "src/domains/task/entities/task.entity";
+import { TaskEntity } from "../../task/entities/task.entity";
 export class UsuarioEntity {
 
     constructor(
